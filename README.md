@@ -16,6 +16,12 @@ A React app that fetches data from NASA's API, and displays a daily astronomy pi
 
 [Repo](https://github.com/pjgeronimo/nasa-react-apod)
 
+#### Calgary Property Analysis
+
+A terminal-based Python program that provides analysis for 3 Calgary communities
+
+[Repo](https://github.com/cchan-jl/Calgary-property-analysis)
+
 
 <!--
 **pjgeronimo/pjgeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
